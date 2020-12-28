@@ -16,10 +16,10 @@ The program returns the card value and mark the input photo where the card is lo
 
 Input:
 
-![salt_pepper_in](img\salt_pepper_in.bmp)
+![salt_pepper_in](img/salt_pepper_in.bmp)
 
 
 
 Output:
 
-![salt_pepper_in](img\salt_pepper_out.jpg)
+![salt_pepper_in](img/salt_pepper_out.jpg)
