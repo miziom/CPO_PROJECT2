@@ -9,3 +9,17 @@ The program returns the card value and mark the input photo where the card is lo
 **Technologies used:** 
 - C++
 - OpenCV Library
+
+------
+
+#### Example for image with salt and pepper noise
+
+Input:
+
+![salt_pepper_in](img\salt_pepper_in.bmp)
+
+
+
+Output:
+
+![salt_pepper_in](img\salt_pepper_out.jpg)
