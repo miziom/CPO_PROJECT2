@@ -22,4 +22,4 @@ Input:
 
 Output:
 
-![salt_pepper_in](img/salt_pepper_out.jpg)
+![salt_pepper_in](img/salt_pepper_out.JPG)
